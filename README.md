@@ -1,1 +1,1 @@
-# algorithms
+# My Algorithm Solutions
